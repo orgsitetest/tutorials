@@ -22,13 +22,13 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
 </div>
 
 ## Prerequisites  
-![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
-![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Hello World! Develop your first HANA application](#)
+![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
+![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Hello World! Develop your first HANA application](#)
 
 ## Next Steps  
 Follow our other tutorials on the HANA Cloud Platform website  
-![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Hello User! Authorize your first user.](#)  
-![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Check out the other tutorials on our HANA Cloud Platform website](#)
+![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Hello User! Authorize your first user.](#)  
+![]({{ site.baseurl }}/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Check out the other tutorials on our HANA Cloud Platform website](#)
 
 ## Details
 
@@ -46,7 +46,7 @@ Beginners might take 10-15 minutes to execute this tutorial.
 
 The full application build in this tutorial can be found in the Github repository [https://github.com/SAP/cloud-hana-helloworld/](https://github.com/SAP/cloud-hana-helloworld/).
 
-## ![](/assets/hana-data_files/icon_02.png) Open theWeb-based Development Workbench
+## ![]({{ site.baseurl }}/assets/hana-data_files/icon_02.png) Open theWeb-based Development Workbench
 
 ### Using HANA Cloud Platform  
 Each Trial HANA instance comes with the HANA Web-based Development Workbench.  The workbench allows you to develop on HANA without the need to set up a local development environment.  
@@ -55,4 +55,6 @@ Login to the [HANA Cloud Cockpit](https://account.hanatrial.ondemand.com/cockpit
 
 Choose HANA Instances and choose then SAP HANA Web-based Development Workbench link.  
 
-You are now in the Editor and can immediately start developing in HANA. ![](./assets/hana-data_files/img-09.png)
+You are now in the Editor and can immediately start developing in HANA.
+
+![]({{ site.baseurl }}/assets/hana-data_files/img-09.png)
