@@ -1,6 +1,8 @@
 ---
 layout: tutorial
 title: Hana Data Access and Authorization
+primary_tag: topic>abap-development
+tags: [  tutorial>beginner, topic>abap-development ]
 ---
 # Hello Data!
 
@@ -16,6 +18,9 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
     <ul class="list-inline tags">
       <li>
         <a href="#" class="tag tag-technology">HANA</a>
+      </li>
+       <li>
+        <a href="https://www.sap.com" class="tag tag-technology" target="_blank">HANA</a>
       </li>
     </ul>
   </div>
