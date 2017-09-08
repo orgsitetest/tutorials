@@ -27,7 +27,7 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
 </div>
 
 Link:
-[SAP](https://www.sap.com/developer target="_blank")
+[SAP](https://www.sap.com/developer){:target="_blank"}
 
 ## Prerequisites  
 ![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
