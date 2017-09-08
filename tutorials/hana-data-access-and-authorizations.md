@@ -22,6 +22,9 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
        <li>
         <a href="https://www.sap.com" class="tag tag-technology" target="_blank">HANA</a>
       </li>
+      <li>
+        [Google](https://google.com" target="_blank)
+      </li>
     </ul>
   </div>
 </div>
