@@ -22,12 +22,12 @@ In this tutorial you will make your very first steps to access data on HANA. Thi
        <li>
         <a href="https://www.sap.com" class="tag tag-technology" target="_blank">HANA</a>
       </li>
-      <li>
-        [Google](https://google.com)
-      </li>
     </ul>
   </div>
 </div>
+
+Link:
+[SAP](https://www.sap.com)
 
 ## Prerequisites  
 ![](/assets/hana-data_files/ico-01.png){: height='20' width='35'} [Set up a HANA instance on a cloud provider](#)  
